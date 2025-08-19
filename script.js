@@ -25,8 +25,7 @@ const networkPrefixes = {
   '0342': 'Telenor',
   '0343': 'Telenor',
   '0344': 'Telenor',
-  '0345': 'Telenor',
-  '0355': 'SCOM'
+  '0345': 'Telenor'
 };
 
 function detectNetwork() {
